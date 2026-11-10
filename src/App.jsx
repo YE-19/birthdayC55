@@ -142,7 +142,7 @@ export default function App() {
         </p>
 
         <h1 className="z-10 my-2 font-script text-[6.5rem] leading-none text-[#f3e3ce] drop-shadow-md sm:text-[9rem]">
-          Shorouk
+          Shrouk
         </h1>
 
         <p className="z-10 font-serif text-sm uppercase tracking-[0.2em] text-[#f3e3ce] drop-shadow-sm">
